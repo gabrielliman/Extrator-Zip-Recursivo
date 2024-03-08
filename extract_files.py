@@ -12,7 +12,7 @@ def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips)
     supported_extensions = ['.zip', '.rar', '.7z']
     if extension.lower() in supported_extensions:
         os.makedirs(output_dir, exist_ok=True)
-        command = ["7z", "x", archive_file, f"-o{output_dir}", "-y"]
+        command = ["7z", "x", archive_file, f"-o{output_dir}"]
         if auto_convert_unicode:
             command.append("-aou")
     else:

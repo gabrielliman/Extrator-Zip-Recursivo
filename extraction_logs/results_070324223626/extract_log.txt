@@ -1,0 +1,218 @@
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Atualizacao_PSB.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Gestao_Monitoramento_Inspecao.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Manual_OMV.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Monitoramento_Inspecao.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Report_Mensal.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/ART_Anotacao_de_Responsabilidade_Tecnica/ART_RTFE.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Desenhos_Secoes_Instrumentadas__Atualizado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Dique_Sela_6_Secao_Instrumentada__Atualizado.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/PROJETO_AS_IS_BARRAGEM_DE_REJEITOS_GELADO_ARRANJO_GERAL_PLANTA.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte3.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte4.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte5.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte6.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte7.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte8.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Desenhos_Parte9.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/As_Is_Gelado_Revisao_Final_Relatorios_Parte1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/Ensaios_de_Laboratorio_Rejeito__Barragem_Gelado.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/As_Is/Ensaios_de_Laboratorio_Rejeito__Barragem_Gelado/6. Ensaios de Laboratório_Rejeito_Gelado/14. Estudos complementares - Reológico. VALE/14.2 - Caracterizações geotécnicas e reológicas - In Lab/VRD036-LAB-28 (Gelado)/3. Relatório/Apêndice I - Dados Brutos.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/Anotacao_de_Responsabilidade_Tecnica.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/ART_RISR_2022_2_Ciclo.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/ART_RISR_Gelado_2021_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/ART_RISR__Gelado_2020_09.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/RISR_DCE_e_ART_Gelado_2022_03_1_Ciclo.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/RISR_DCE_e_ART_Gelado_2022_03_1_Ciclo/RISR_DCE e ART_Gelado_2022_03_1 Ciclo/ART_Gelado_30032022.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/DCEs_e_ARTs_das_RISRs_de_2018_e_2019_da_Barragem_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/DCE_CIENCIA_EMPREENDEDOR_RISR_2022_09_DO.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/DCE_RISR_Gelado_2021_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Auditoria_Tecnica_de_Seguranca/Declaracao_de_Ciencia_e_Concordancia_do_Empreendedor_DCE_ART_RISR_Gelado_2023_03.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Avaliacao_de_Seguranca/Apendices_I_e_II__Logs_e_resultados_de_investigacao_geologicageotecnica.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Como_Construido/As_Built__Sistema_de_Monitoramento_Automatizado__PAINEL_CENTRAL.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Como_Construido/As_Built__Sistema_de_Monitoramento_Automatizado__TORRE_CCO_TORRE_SUL_e_TORRE_TIM.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Acesso_ao_Gelado_sem_ravinamentos.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Compatibilizacao_das_informacoes_de_instrumentacao.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Compatibilizacao_das_informacoes_de_instrumentacao/CompatibilizaÆo das informaäes de instrumentos/Monitoramento Barragens Fe e Mn (PZs, INAs, CPs e RR) As is 2021.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Identificacao_de_instrumentacao.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Implantacao_de_drenagem_subsuperficial_tipo_espinha_de_peixe.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Projeto_espinha_de_peixe_no_plato_abaixo_da_saida_da_drenagem_interna_da_2_berma.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Projeto_Executivo_de_Reforco.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Retificacao_das_formulas_de_calhas_Parshall.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Evidencias_do_Plano_de_Acao/Tratamento_area_umida_abaixo_da_berma_com_dreno_invertido.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Fichas_de_Inspecao_Regulares_Preenchidas/Fichas_de_Inspecao__2015.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Planos_e_Procedimentos_de_Operacao,_Manutencao,_Monitoramento_ou_Instrumentacao_e_Inspecoes/Anexos_Manual_de_Operacao_Manutencao_e_Vigilancia__Barragem_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Planos_e_Procedimentos_de_Operacao,_Manutencao,_Monitoramento_ou_Instrumentacao_e_Inspecoes/Especificacoes_dos_equipamentos_de_Piezometria_online.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Planos_e_Procedimentos_de_Operacao,_Manutencao,_Monitoramento_ou_Instrumentacao_e_Inspecoes/Plano_de_Monitoramento_e_Instrumentacao.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Planos_e_Procedimentos_de_Operacao,_Manutencao,_Monitoramento_ou_Instrumentacao_e_Inspecoes/Plano_Diretor_de_Disposicao_de_Rejeito__Barragem_do_Gelado.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Planos_e_Procedimentos_de_Operacao,_Manutencao,_Monitoramento_ou_Instrumentacao_e_Inspecoes/Manuais_dos_Equipamentos_Teste_de_Calibracao_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Marco_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Novembro_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Outubro_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Setembro_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Setembro_de_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Abril_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Fevereiro_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Janeiro_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Estudo_de_Cenarios_Dam_Break_Cenario_D.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Junho_de_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Julho_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Lista_de_Presenca_Teste_de_Sirenes.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Lista_Treinamento_Gelado_2023_05.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Mapas_de_Inundacao_ZAS.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Mapas_de_Inundacao_ZSS.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamentos_PAEBM_Dezembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamentos_PAEBM_Fevereiro_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamentos_PAEBM_Janeiro_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamentos_PAEBM_Marco_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamentos_PAEBM_Novembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamentos_PAEBM_Outubro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registros_de_Treinamento_PAEBM_Abril_2023.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Abril_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Agosto_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Agosto_de_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Dezembro_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Fevereiro_de_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Janeiro_de_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamentos_PAEBM_Julho_de_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_I.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_II.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_III.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_III/Seção III/Capitulo 1_Diagnostc_Abastec_Publico_Privado_Agua/ART_ARCADIS.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_IV.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_IV/Seção IV/GELADO-PAE-1-MAP-shp/Patrimonio_Cultural_Bem_Imaterial_NP_Federal.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_IV/Seção IV/GELADO-PAE-1-MAP-shp/Patrimonio_Cultural_Bem_Material_Arqueologico_NP_Federal.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_IV/Seção IV/GELADO-PAE-1-MAP-shp/ZAS_BGELADO_2022_12_20.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Secao_IV/Seção IV/GELADO-PAE-1-MAP-shp/ZSS_BGELADO_2022_12_20.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Declaracao_de_Conformidade_e_Operacionalidade_DCO_Gelado_06_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Encartes_PAEBM_Gelado_2018_05.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Estudo_de_Cenarios_Dam_Break_Cenario_A.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Estudo_de_Cenarios_Dam_Break_Cenario_B.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Estudo_de_Cenarios_Dam_Break_Cenario_C.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Gelado_2018_9.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Gelado_2021_07.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Gelado_2021_07/PAEBM_Gelado_Seção_2021_07/KMZ.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Gelado_2021_07/PAEBM_Gelado_Seção_2021_07/Seção I/Seção I.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Gelado_2021_07/PAEBM_Gelado_Seção_2021_07/Seção II/Seção II.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Gelado_2021_07/PAEBM_Gelado_Seção_2021_07/Seção III/Seção III.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Junho_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Maio_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_de_Treinamento_PAEBM_Marco_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_Treinamento_PAEBM_2023_07.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_Treinamento_PAEBM_2023_08.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_Treinamento_PAEBM_2023_09.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_Treinamento_PAEBM_2023_10.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_Treinamento_PAEBM_2023_11.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro_Treinamento_PAEBM_2023_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Plano_de_Acao_Emergencial_(PAE)/Registro__Treinamento_PAEBM_2023_06.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Gelado_Historico_de_monitoramento_de_INas_e_PZs_ate_ago2020.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_2023_03.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_2023_05.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dezembro_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dezembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dique_Sela_06_2023_03.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dique_Sela_06_2023_05.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dique_Sela_06_Dezembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dique_Sela_06_Fevereiro_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Abril_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Agosto_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Julho_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Junho_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Maio_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Outubro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Sela_06_Outubro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Planilha_Graficos_AECOM_Gelado_Setembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Dique_Sela_06_Janeiro_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_Historico_Instrumentos_AECOM_Gelado_Dique_Sela_06_2023_06.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Fevereiro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Fevereiro_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Janeiro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Janeiro_2023.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Marco_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Novembro_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Novembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Gelado_Outubro_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_AECOM_Sela_06_Gelado_Novembro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_de_Monitoramento_e_Instrumentacao/Graficos_Historico_Instrumentos_AECOM_Gelado_2023_06.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Certificados_de_Calibracao_dos_Inclinometros.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Certificados_de_Calibracao_dos_Instrumentos_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Certificados_de_Calibracao_dos_Instrumentos_Gelado_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Fichas_de_Afericao_dos_Instrumentos_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Fichas_de_Afericao_dos_Instrumentos_Gelado_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Fichas_de_Calibracao_dos_Inclinometros.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Fotos_Videos_Teste_Sirene_Marco_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Teste_de_Vida_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Teste_de_Vida_Gelado_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Teste_de_Vida_Gelado_Dique_de_Sela_06_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Relatorio_Teste_Sirene_Agosto_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Relatorio_Teste_Sirene_Dezembro_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/Relatorio_Teste_Sirene_Janeiro_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Registros_dos_Testes_de_Equipamentos/IMPLANTACAO_DE_PROJETO_PROJETO_MONITORAMENTO_DE_BARRAGENS_SISTEMA_DE_MONITORAMENTO_DE_BARRAGENS_FICHAS_DE_INSTALACAO_DE_SENSORES_PIEZOMETRICOS_CONTROLE_DE_QUALIDADE_DOS_INSTRUMENTOS.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Mensal_de_Controle_Geotecnico__Janeiro_a_Abril_2018.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorios_Mensais_de_Controle_Geotecnico__Agosto_a_Dezembro_2018.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorios_Mensais_de_Controle_Geotecnico__Maio_a_Julho_2018.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Mensal_EoR_Gelado_Outubro_de_2020_a_Julho_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Revisao_Periodica_de_Seguranca/Anotacao_de_Responsabilidade_Tecnica__ART.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Revisao_Periodica_de_Seguranca/ART_RPSB_Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Revisao_Periodica_de_Seguranca/ART_RPSB_Gelado_2019.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Titulo_Minerario_Associado/Processo_Minerario_Serra_Norte.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Licencas_Ambientais/Licenca_de_Operacao_N_2672020_10_Retificacao.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Licencas_Ambientais/Limites_de_Area_da_Licenca_de_Operacao_N_2672002_10_Retificacao.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Licencas_Ambientais/Solicitacao_de_Renovacao_da_Licenca_de_Operacao_N_2672002.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte3.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte4.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte5.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte6.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte7.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte8.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/AnaliseRisco_DamBreak_Mapas_Gelado_Parte9.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Memoria_de_Calculo_do_Transito_de_Cheias.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Memoria_de_Calculo_do_Transito_de_Cheias/Memoria_de_Calculo_As Is_GELADO/HMS/HMS-Gelado-11-6-2019_4.2.1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Projeto_de_Reforco_Conceitual_Gelado_2020_07.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Projeto_de_Reforco_Conceitual_Gelado_2020_07/Projeto de Reforo Conceitual Gelado/Conceitual Gelado/Gelado - conceitual.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Desenho_CAD_Batimetria__Novembro2013.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Ensaios_de_Laboratorio_Pattrol.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/ESTUDOS_DAM_BREAK_GELADO.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/ESTUDOS_DAM_BREAK_GELADO/ESTUDOS_DAM BREAK_GELADO/Gelado.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/COMPAC.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GRAN SED E SCS.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/LL-LP.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/M.ESP.REAL.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/PERMEABILIDADE.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/TRIAXIAL CID.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/GELADO_ENSAIOS_DE_LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/GELADO_ENSAIOS DE LABORATORIO_LOCTEST_GEOESTAVEL_2022_04/TRIAXIAL CIU.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(1).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(10).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(11).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(2).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(3).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(4).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(5).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(6).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(7).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(8).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO(9).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/REVISAO_DO_PLANO_DIRETOR_DE_REJEITOS__PROJETO.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Desenho_CAD_Batimetria__Julho2012.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Classific_Gelado_2018.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Relatorio_de_Sondagens_e_Ensaios_de_Caracterizacao.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Documentos/Relatorio_Geologico_Geotecnico.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Balancos_Hidricos_Janeiro_a_Junho_de_2021.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Monitoramento_de_PZs_INAs_e_RR__Gelado_e_Sela_6.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado_2016_07.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado_2020_12.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado_2021_12.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado__2014_09.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado__2015_10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado__2017_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado__2018_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Relatorio_Batimetria_Gelado__2019_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Registros_e_Controles/Reports_Diario_Vistoria_Extravasor_Gelado_Janeiro_a_Maio_2022.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Requisitos_Legais/Licenca_de_Lavra_de_Rejeito__Fase_1.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/DATASETS/Gelado/Outros_Requisitos_Legais/Processo_Minerario_Associado__Carajas_852_14576.zip

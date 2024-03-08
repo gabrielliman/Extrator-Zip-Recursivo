@@ -1,0 +1,176 @@
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Registros_e_Controles/Outros_Documentos_Estado_Conservacao_Capao_Serra_2013.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Registros_e_Controles/Outros_Documentos_Estado_Conservacao_Capao_Serra_2014.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Registros_e_Controles/Outros_Documentos_Estado_Conservacao_Capao_Serra_2015.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Registros_e_Controles/Outros_Documentos_Estado_Conservacao_Capao_Serra_2016.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Requisitos_Legais/Outros_Documentos_Comunicacao_Envio_Relatorio_FEAM_Capao_Serra_2021_08_26.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Requisitos_Legais/Outros_Documentos_Comunicacao_Esclarecimentos_FEAM_Capao_Serra_2022_02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Requisitos_Legais/Protocolos_PAEBM_Capao_Serra_2015_06.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_da_Serra_01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_da_Serra_02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_da_Serra_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_Serra_2015_06_09.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_Serra_2022_02_18_Parte01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_Serra_2022_02_18_Parte02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/PAEBM_Capao_Serra_2022_02_18_Parte03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Protocolos_Externos.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Outros_Documentos_Registro_Treinamento_PAEBM_Capao_Serra_2015_10_15.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Outros_Documentos_Registro_Treinamento_PAEBM_Capao_Serra_2016_05_15.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Outros_Documentos_Registro_Treinamento_PAEBM_Capao_Serra_2017_01_12.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Mapas_Inundacao.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/ENCARTES_PAEBM_Capao_da_Serra_2018_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/ESTUDO_DE_CENARIOS_DAM_BREAK_MAPA_DE_ENVOLTORIA_MAXIMA_DE_INUNDACAO_CENARIO_A__CHEIA_NATURAL_TR_DE_2_ANOS.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/ESTUDO_DE_CENARIOS_DAM_BREAK_MAPA_DE_ENVOLTORIA_MAXIMA_DE_INUNDACAO_CENARIO_B__CHEIA_NATURAL_TR_DE_100_ANOS.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/ESTUDO_DE_CENARIOS_DAM_BREAK_MAPA_DE_ENVOLTORIA_MAXIMA_DE_INUNDACAO_CENARIO_C__RUPTURA_DIA_SECO_SUNNY_DAY.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/ESTUDO_DE_CENARIOS_DAM_BREAK_MAPA_DE_ENVOLTORIA_MAXIMA_DE_INUNDACAO_CENARIO_DE_RUPTURA_DIA_CHUVOSO_RAINY_DAY.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/ESTUDO_DE_CENARIOS_DAM_BREAK_MAPA_DE_RESCDAM_CENARIO_C__RUPTURA_DIA_SECO_SUNNY_DAY.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Anexo_A__Plano_Defesa_Civil__Mapas_Evacuacao.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Anexo_C__Plano_Bens_Culturais__Mapas_Bens_Culturais.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Plano_de_Acao_Emergencial_(PAE)/Anexo_D__Diagnostico_do_Abastecimento_de_Agua__Anexo_I__Localizacao_Dam_Break.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Desenhos_Capao_Serra_1995.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Desenhos_Capao_Serra_2003_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Desenhos_Proposito_Melhorias_Capao_Serra_2014.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Desenhos_Proposito_Melhorias_Parte_2_Capao_Serra_2014.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Desenhos_Vertedouro_Emergencia_Capao_Serra_2005.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Projeto_Detalhado_Capao_Serra_2017(1).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Projeto_Detalhado_Capao_Serra_2017.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Projeto_Detalhado_Capao_Serra_2019.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Projeto_Executivo/Projeto_Detalhado_Medidas_Corretivas_Capao_Serra_2021_02_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Registros_de_Operacao/Outros_Documentos_Relatorio_Teste_Vida_Instrumentacao_Capao_Serra_2020_2021.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Registros_de_Operacao/Registro_Monitoramento_Instrumentacao_Capao_Serra_2013.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Registros_de_Operacao/Registro_Monitoramento_Instrumentacao_Capao_Serra_2014.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Registros_de_Operacao/Registro_Monitoramento_Instrumentacao_Capao_Serra_2015.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Registros_de_Operacao/Registro_Monitoramento_Instrumentacao_Capao_Serra_2016.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Registros_dos_Testes_de_Equipamentos/Outros_Documentos_Boletim_Ensaio_Permeabilidade_Carga_Variavel_Instrumentos_Capao_Serra_2012.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_01/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_02/Anexo II _Fichas de InspeÆo .zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_03/Anexo II _Fichas de InspeÆo .zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_05/Anexo II - Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_05/Anexo III - Relat¢rio An lise Geof¡sica.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_06.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_06/Anexo II - Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_07.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_07/Barragem Capão da Serra/Anexo II - Fichas de Inspeção.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_08.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_08/Anexo - IV Ensaios de laborat¢rio.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Mensal_Capao_Serra_2022_08/Anexo II - Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2021_08.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2021_10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2018_10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2018_11.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2018_11/Nov18/FOTOS_OS_171322 - 2018-12-04.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2018_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2019_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2019_04.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2019_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2019_06.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2019_07.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2021_12.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_05/Anexo_1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_05/Anexo_2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_03/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2019_08.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avaliacao_Periodica_Seguranca_Geotecnica_Capao_Serra_2013.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avaliacao_Periodica_Seguranca_Geotecnica_Capao_Serra_2014.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avaliacao_Periodica_Seguranca_Geotecnica_Capao_Serra_2015.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avaliacao_Periodica_Seguranca_Geotecnica_Capao_Serra_2016.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_07.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_07/Anexo_1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_07/Anexo_2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_08.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_08/Anexo 2 .zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_09.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_09/Anexo 2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_10/Anexo 2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_11.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_11/Anexo 2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_01/ANEXO II - Fichas de inspeÆo/ANEXO II - Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_02/Anexo II - Fichas de inspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2022_01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2022_02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2022_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Avalicacao_Mensal_Seguranca_EoR_Capao_Serra_2022_04.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_02.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_03/Anexo I.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_03/Anexo II.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_04.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_04/Anexo_1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2020_04/Anexo_2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_04.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_04/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_05/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_06.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_06/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_07.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_07/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_08.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_08/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_09.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_09/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_10.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_10/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_11.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_11/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Monitoramento_Inspecao_Mensal_Capao_Serra_2021_12/ANEXO II_Fichas de InspeÆo.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Inspecoes_visuais.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Medicao_de_Instrumentos_e_inspecoes_visuais.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Medicao_de_Instrumentos_e_inspecoes_visuais/Anexo 2.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Medicoes_de_instrumentos.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Outros_Documentos_Dados_Leitura_Instrumentos_Capao_Serra_2017_2019.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Monitoramento_Capao_Serra_2020_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Monitoramento_Capao_Serra_2020_05/Anexo_1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Monitoramento_Capao_Serra_2020_05/Anexo_2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Monitoramento_Capao_Serra_2020_06_05.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Monitoramento_Capao_Serra_2020_06_05/Anexo_1.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao_(cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Monitoramento_Capao_Serra_2020_06_05/Anexo_2.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Inspecao_Periodica_Capao_Serra_2019_01.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Relatorios_Mensais_de_Avaliacao_Geotecnica/Relatorio_Tecnico_Analise_Performance_Periodica_Barragem_Capao_Serra_2017.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Revisao_Periodica_de_Seguranca/ART_RPSB_Capao_Serra_2020.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Monitoramento_Inspecao_Estruturas_Capao_Serra_2020.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/ART_Anotacao_de_Responsabilidade_Tecnica/ART_Projetos_Capao_Serra_2011_04_21.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/As_Is/Relatorio_Tecnico_Ensaios_Laboratorio_Capao_Serra_2019_12_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Auditoria_Tecnica_de_Seguranca/Laudo_Tecnico_Seguranca_Capao_Serra_2007.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Auditoria_Tecnica_de_Seguranca/ART_Operacao_Manutencao_Capao_Serra_2019.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Como_Construido/Desenhos_Capao_Serra_2004.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Como_Construido/Fotos_Obra_Capao_Serra_2002.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Evidencias_do_Plano_de_Acao/Evidencia_ensaios_Capao_da_Serra.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Evidencias_do_Plano_de_Acao/Evidencia_modelagem_hidraulica_3D.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Evidencias_do_Plano_de_Acao/Analise_estabilidade_de_condicao_critica.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Evidencias_do_Plano_de_Acao/Mapas(1).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Evidencias_do_Plano_de_Acao/Mapas.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Fichas_de_Inspecao_Regulares_Preenchidas/Inspecao_Periodica_de_Barragens_2013.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Fichas_de_Inspecao_Regulares_Preenchidas/Inspecao_Periodica_de_Barragens_2014.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Fichas_de_Inspecao_Regulares_Preenchidas/Inspecao_Periodica_de_Barragens_2015.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Fiscalizacao_de_Orgaos_Reguladores/Protocolo_Gestao_Monitoramento_Barragens_Capao_Serra_2018_09_05.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Fotos_da_Barragem/Fotos_Capao_da_Serra.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Licencas_Ambientais/Revalidacao_de_licenca(1).zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Licencas_Ambientais/Revalidacao_de_licenca.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Relatorio_Tecnico_Classificacao_Capao_Serra_2018_06_21.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Relatorio_Tecnico_Erosao_Capao_Serra_2020_07_12.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Relatorio_Tecnico_Levantamento_Geofisico_Capao_Serra_2020_09_03.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Fotos_Capao_Serra_2017.7z
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Levantamento_Batimetrico_Capao_Serra_2013_07_25.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_10_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_1_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_2_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_3_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_4_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_5_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_6_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_8_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_9_Capao_Serra_2017_02_24.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Ruptura_Hipotetica_Dam_Break_Parte_1_Capao_Serra_2021_06_18.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Ruptura_Hipotetica_Dam_Break_Parte_2_Capao_Serra_2021_06_18.zip
+Extraction successful: /media/gabriel/SSD/GeoAnsata/Capao (cópia)/Outros_Documentos/Outros_Documentos_Mapas_Estudo_Cenarios_Dam_Break_Parte_7_Capao_Serra_2017_02_24.zip
