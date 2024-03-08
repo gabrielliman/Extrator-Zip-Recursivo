@@ -1,0 +1,5 @@
+Código desenvolvido em Python 3.10.13
+Para utilizar o código possuindo conda instalado:
+    pip install requirements.txt
+    python ./extract_files.py
+
