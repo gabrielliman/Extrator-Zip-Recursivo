@@ -95,7 +95,7 @@ def on_select_click():
             ("Arquivos de Texto", "*.rar"),
             ("Todos os Arquivos", "*.*")
         ],
-        initialdir="/"
+        initialdir="./"
     )
     for file_path in file_paths:
         listbox_extract.insert(tk.END, file_path)
