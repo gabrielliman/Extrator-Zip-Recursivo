@@ -1,5 +1,10 @@
 Código desenvolvido em Python 3.10.13
-Para utilizar o código possuindo conda instalado:
-    pip install requirements.txt
-    python ./extract_files.py
+
+O programa pode ser utilizado por meio do arquivo "extract_files.exe" presente na pasta dist.
+Para a execução do programa é necessário o programa 7zip instalado no seu dispositivo, o qual está disponível em: https://www.7-zip.org/download.html
+
+O código fonte está disponível em extract_files.py
+Caso seja necessário executar a partir do código fonte ou realizar alguma modificação esse código pode ser executado da seguinte forma
+    pip install requirements.txt    #Utilizado para baixar as bibliotecas necessárias para execução
+    python ./extract_files.py       #Executa o programa
 
