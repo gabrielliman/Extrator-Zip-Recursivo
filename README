@@ -1,4 +1,5 @@
 Código desenvolvido em Python 3.10.13
+Atualmente o exe so funciona em linux vou converter para windows
 
 O programa pode ser utilizado por meio do arquivo "extract_files.exe" presente na pasta dist.
 Para a execução do programa é necessário o programa 7zip instalado no seu dispositivo, o qual está disponível em: https://www.7-zip.org/download.html
@@ -13,4 +14,10 @@ Para realizar o build de um novo arquivo exe é necessário o uso da biblioteca 
 Em seguida é so utilizar o seguinte comando:
     pyinstaller --onefile extract_files.py
 O executável estará dentro da pasta dist
+
+
+Proximas Mudanças:
+Checar se responder sim pra todas as substituições tem problema
+A barra de progresso não ta enchendo ate o final
+transferir para windows
 

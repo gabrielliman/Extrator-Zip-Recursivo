@@ -2,7 +2,7 @@ import os
 import subprocess
 import datetime
 import tkinter as tk
-from tkinter import filedialog, ttk
+from tkinter import filedialog, ttk, messagebox
 
 
 
@@ -40,6 +40,7 @@ def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips)
 #Função auxiliar de extração recursiva
 def extract_recursive(zip_file,checkbox_unicode_var,checkbox_zip_var):
     output_folder = os.path.splitext(zip_file)[0]
+    output_folder = output_folder.replace(" ", "_")
     extract_archive(zip_file, output_folder,checkbox_unicode_var, checkbox_zip_var)
 
     for root, dirs, files in os.walk(output_folder):
@@ -126,6 +127,15 @@ def on_listar_arquivos_click():
 
 
 
+# Função que copia de uma lista para outra
+def on_copy_click():
+    selected_items = listbox_count.curselection()
+    for item in listbox_count.get(0, tk.END):
+        listbox_extract.insert(tk.END, item)    
+    messagebox.showinfo("Cópia realizada com sucesso", "A lista de arquivos foi copiada para a lista de arquivos a serem descompactados")
+
+
+
 #Botão Reiniciar Programa
 def reiniciar_programa():
     # Limpar a interface e redefinir variáveis
@@ -167,7 +177,12 @@ listbox_count = tk.Listbox(root, selectmode=tk.SINGLE, width=50, height=10)
 listbox_count.pack(pady=10)
 
 button_listar_arquivos = tk.Button(root, text="Listar Arquivos Comprimidos", command=on_listar_arquivos_click)
-button_listar_arquivos.pack(pady=10)
+button_listar_arquivos.pack(pady=5)
+
+
+#Copiador de Lista
+button_copy = tk.Button(root, text="Copiar para Descompactar", command=on_copy_click)
+button_copy.pack(pady=5)
 
 
 
