@@ -1,13 +1,17 @@
 Código desenvolvido em Python 3.10.13
-Atualmente o exe so funciona em linux vou converter para windows
+
+
 
 O programa pode ser utilizado por meio do arquivo "extract_files.exe" presente na pasta dist.
 Para a execução do programa é necessário o programa 7zip instalado no seu dispositivo, o qual está disponível em: https://www.7-zip.org/download.html
 
+
+
 O código fonte está disponível em extract_files.py
 Caso seja necessário executar a partir do código fonte ou realizar alguma modificação esse código pode ser executado da seguinte forma
-    pip install requirements.txt    #Utilizado para baixar as bibliotecas necessárias para execução
     python ./extract_files.py       #Executa o programa
+
+
 
 Para realizar o build de um novo arquivo exe é necessário o uso da biblioteca pyinstaller que pode ser instalada com o uso do pip:
     pip install pyinstaller
@@ -19,6 +23,4 @@ O executável estará dentro da pasta dist
 Proximas Mudanças:
 Checar se responder sim pra todas as substituições tem problema
 A barra de progresso não ta enchendo ate o final, nao ta prestando
-transferir para windows
-adicionar aviso de concluido
 
