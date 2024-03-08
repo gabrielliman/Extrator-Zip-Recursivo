@@ -8,3 +8,9 @@ Caso seja necessário executar a partir do código fonte ou realizar alguma modi
     pip install requirements.txt    #Utilizado para baixar as bibliotecas necessárias para execução
     python ./extract_files.py       #Executa o programa
 
+Para realizar o build de um novo arquivo exe é necessário o uso da biblioteca pyinstaller que pode ser instalada com o uso do pip:
+    pip install pyinstaller
+Em seguida é so utilizar o seguinte comando:
+    pyinstaller --onefile extract_files.py
+O executável estará dentro da pasta dist
+
