@@ -1,6 +1,5 @@
 import os
 import subprocess
-import datetime
 import tkinter as tk
 from tkinter import filedialog, ttk, messagebox
 from unidecode import unidecode
@@ -16,28 +15,13 @@ def remove_broken_characters(input_string):
 
     return clean_string
 
+def remove_non_ascii(input_string):
+    # Remove all characters outside the ASCII range
+    clean_string = ''.join(char for char in input_string if 0 < ord(char) < 128)
+    return clean_string
 
 
-def std_text(texto):
-    # Dicionário de substituições para acentos
-    substituicoes_acentos = {
-        'á': 'a', 'à': 'a', 'â': 'a', 'ã': 'a',
-        'é': 'e', 'è': 'e', 'ê': 'e',
-        'í': 'i', 'ì': 'i', 'î': 'i',
-        'ó': 'o', 'ò': 'o', 'ô': 'o', 'õ': 'o',
-        'ú': 'u', 'ù': 'u', 'û': 'u',
-        'ç': 'c'
-    }
-
-    # Substitui acentos e cedilha
-    for acento, sem_acento in substituicoes_acentos.items():
-        texto = texto.replace(acento, sem_acento)
-
-    return texto
-
-
-
-def list_compressed_content(archive_file):
+def list_compressed_content(folder_name,archive_file):
     try:
         command = [SETE_ZIP_PATH, "l", archive_file, "-ba","-slt"]
         result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
@@ -51,20 +35,19 @@ def list_compressed_content(archive_file):
                 next_line = lines[i + 1]
 
                 if current_line.startswith('Path') and next_line.startswith('Folder = -'):
-                    path_value = std_text(current_line.split('=')[1].strip())
-                    path_value = std_text(path_value)
+                    path_value = remove_non_ascii(current_line.split('=')[1].strip())
                     paths_list.append(path_value)
 
-            return set(paths_list)
+            return set(paths_list), lines
         else:
             error_message = f"Error (return code {result.returncode}): {result.stderr}\n"
             error_log = open(folder_name + "/listing_error.txt", "a")
-            error_log.write(error_message)
-            return error_message
+            error_log.write(error_message +"\n")
+            return set(["Comando de listagem retornou valor diferente de 0"])
     except Exception as e:
         error_log = open(folder_name + "/listing_error.txt", "a")
-        error_log.write(f"An error occurred: {str(e)}")
-        return f"An error occurred: {str(e)}"
+        error_log.write(f"An error occurred: {str(e)} on {str(archive_file)}\n")
+        return set(["Erro na listagem dos arquivos comprimidos"])
     
 def list_files(folder):
     files_list = []
@@ -75,42 +58,58 @@ def list_files(folder):
             
             # Obtém o caminho relativo ao diretório inicial
             relative_path = os.path.relpath(file_path, folder)
-            relative_path = std_text(relative_path)
-            
+            relative_path = remove_non_ascii(relative_path)
             files_list.append(relative_path)
 
     return set(files_list)
 
-def compare_content(archive_file, output_dir):
-    before_extraction=list_compressed_content(archive_file)
+def autorename_check(missing_files, surplus_files):
+    renamed_list=[]
+    for path in surplus_files:
+        if '_1.' in path:
+            renamed = path.replace('_1.', '.')
+            renamed_list.append(renamed)
+    new_missing=missing_files.difference(set(renamed_list))
+    return new_missing
+
+def compare_content(folder_name,archive_file, output_dir):
+    a=list_compressed_content(folder_name,archive_file)
+    if(len(a)>1):
+        before_extraction, lines=a[0], a[1]
+    else:
+        before_extraction=a
     after_extraction=list_files(output_dir)
     differences_both = before_extraction.symmetric_difference(after_extraction)
     missing_files=before_extraction.difference(after_extraction)
+    surplus_files=after_extraction.difference(before_extraction)
     file_name=os.path.splitext(os.path.basename(archive_file))[0]
-    output_file_path = folder_name + file_name +".txt"
+    new_missing=autorename_check(missing_files,surplus_files)
 
-
-    if(len(missing_files)>0):
+    if(len(new_missing)>0):
         output_file_path = folder_name + "/"+file_name +".txt"
         with open(output_file_path, 'w') as file:
             file.write(f"Numero de items de antes que nao tem agora {len(missing_files)}\n\n\n\n")
-            file.write(f"Items que tinham antes mas nao tem depois: {before_extraction.difference(after_extraction)}\n\n\n\n\n")
-            file.write(f"Items que surgiram depois mas nao tem antes: {after_extraction.difference(before_extraction)}\n\n\n\n\n")
+            file.write(f"Items que tinham antes mas nao tem depois: {missing_files}\n\n\n\n\n")
+            file.write(f"Items que surgiram depois mas nao tem antes: {surplus_files}\n\n\n\n\n")
             file.write(f"\n\n\n\n\n\nCAMINHO ANTES: {archive_file}\n")
             file.write(f"Files before {len(before_extraction)} \n")
             file.write(str(before_extraction)+"\n")
-            file.write(f"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCAMINHO DEPOIS: {output_dir}\n")
+            file.write(f"\n\n\n\n\n\nCAMINHO DEPOIS: {output_dir}\n")
             file.write(f"Files after {len(after_extraction)} \n")
             file.write(str(after_extraction)+"\n")
             for difference in differences_both:
                 file.write(f"Item {difference} is in one set but not in the other\n")
+            if(len(a)>1):
+                for line in lines:
+                    file.write(line +"\n")
+        return False
 
-    return before_extraction==after_extraction
+    return True
 
 
 
 # Função que extrai arquivos e registra caso ocorra um erro ou um sucesso
-def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips, yes_toall):
+def extract_archive(folder_name,archive_file, output_dir, auto_rename, remove_zips, yes_toall):
     _, extension = os.path.splitext(archive_file)
     supported_extensions = ['.zip', '.rar', '.7z']
     
@@ -119,7 +118,7 @@ def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips,
         command = [SETE_ZIP_PATH, "x", archive_file, f"-o{output_dir}"]
         if yes_toall:
             command.append("-y")
-        if auto_convert_unicode:
+        if auto_rename:
             command.append("-aou")
     else:
         return
@@ -127,7 +126,7 @@ def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips,
     try:
         extract_log = open(folder_name + "/extract_log.txt", "a")
         subprocess.run(command, check=True)
-        if(compare_content(archive_file, output_dir)==True):
+        if(compare_content(folder_name,archive_file, output_dir)==True):
             extract_log.write(f"Extraction successful: {archive_file}\n")
             extract_log.close()
             if not remove_zips:
@@ -135,7 +134,7 @@ def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips,
         else:
             error_log = open(folder_name + "/extract_error.txt", "a")
             error_log.write(f"Extraction failed: {archive_file}\n")
-            error_log.write("Files missing\n")
+            error_log.write("Error on comparing zip content, check file error\n")
 
 
     except subprocess.CalledProcessError as e:
@@ -149,15 +148,15 @@ def extract_archive(archive_file, output_dir, auto_convert_unicode, remove_zips,
 
 
 # Função auxiliar de extração recursiva
-def extract_recursive(zip_file, checkbox_unicode_var, checkbox_zip_var, checkbox_yes_var):
+def extract_recursive(folder_name,zip_file, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var):
     output_folder = os.path.splitext(zip_file)[0]
     output_folder = output_folder.replace(" ", "_")
-    extract_archive(zip_file, output_folder, checkbox_unicode_var, checkbox_zip_var, checkbox_yes_var)
+    extract_archive(folder_name,zip_file, output_folder, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var)
 
     for root, dirs, files in os.walk(output_folder):
         for file in files:
             file_path = os.path.join(root, file)
-            extract_recursive(file_path, checkbox_unicode_var, checkbox_zip_var, checkbox_yes_var)
+            extract_recursive(folder_name,file_path, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var)
 
 
 # Funções para o frontend
@@ -167,7 +166,9 @@ def on_descompactar_click():
     error_count = 0
     i = 0
     for file_path in listbox_extract.get(0, tk.END):
-        extract_recursive(file_path, checkbox_unicode_var.get(), checkbox_zip_var.get(), checkbox_yes_var.get())
+        folder_name = "extraction_logs/results_" + os.path.splitext(os.path.basename(file_path))[0]
+        os.makedirs(folder_name, exist_ok=True)
+        extract_recursive(folder_name,file_path, checkbox_rename_var.get(), checkbox_zip_var.get(), checkbox_yes_var.get())
         i += int(100 / listbox_extract.size())
         progress_var.set(i)
         progress_bar.update()
@@ -192,7 +193,7 @@ def on_descompactar_click():
 
 # Caixas de Seleção
 def on_checkbox_change():
-    auto_convert_unicode = checkbox_unicode_var.get()
+    auto_rename = checkbox_rename_var.get()
     remove_zips = checkbox_zip_var.get()
     yes_toall = checkbox_yes_var.get()
 
@@ -250,25 +251,14 @@ def reiniciar_programa():
     listbox_count.delete(0, tk.END)
     listbox_extract.delete(0, tk.END)
     error_label.config(text="")
-    checkbox_unicode_var.set(False)
+    checkbox_rename_var.set(True)
     checkbox_yes_var.set(True)
     checkbox_zip_var.set(False)
     progress_var.set(0)
 
-    # Criar novos logs
-    global folder_name
-    current_datetime = datetime.datetime.now()
-    timestamp_format = "%H-%M-%S-%d-%m-%y"
-    folder_name = "extraction_logs/results_" + current_datetime.strftime(timestamp_format)
-    os.makedirs(folder_name, exist_ok=True)
-
 
 # Criação dos logs
 os.makedirs("extraction_logs", exist_ok=True)
-current_datetime = datetime.datetime.now()
-timestamp_format = "%H-%M-%S-%d-%m-%y"
-folder_name = "extraction_logs/results_" + current_datetime.strftime(timestamp_format)
-os.makedirs(folder_name, exist_ok=True)
 
 # Criação da Interface
 root = tk.Tk()
@@ -298,10 +288,10 @@ button_descompactar = tk.Button(root, text="Descompactar", command=on_descompact
 button_descompactar.pack(pady=5)
 
 # Caixas de Seleção
-checkbox_unicode_var = tk.BooleanVar()
-checkbox_unicode = tk.Checkbutton(root, text="Auto Converter para Unicode", variable=checkbox_unicode_var,
+checkbox_rename_var = tk.BooleanVar(value=True)
+checkbox_rename = tk.Checkbutton(root, text="Auto Renomear arquivos com nomes repetidos", variable=checkbox_rename_var,
                                   command=on_checkbox_change)
-checkbox_unicode.pack(pady=5)
+checkbox_rename.pack(pady=5)
 
 checkbox_zip_var = tk.BooleanVar()
 checkbox_zip = tk.Checkbutton(root, text="Não apagar arquivos comprimidos", variable=checkbox_zip_var,
