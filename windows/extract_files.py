@@ -86,7 +86,8 @@ def compare_content(folder_name,archive_file, output_dir):
     new_missing=autorename_check(missing_files,surplus_files)
 
     if(len(new_missing)>0):
-        output_file_path = folder_name + "/"+file_name +".txt"
+        os.makedirs(folder_name + "/errors", exist_ok=True)
+        output_file_path = folder_name + "/errors/"+file_name +".txt"
         with open(output_file_path, 'w') as file:
             file.write(f"Numero de items de antes que nao tem agora {len(missing_files)}\n\n\n\n")
             file.write(f"Items que tinham antes mas nao tem depois: {missing_files}\n\n\n\n\n")
@@ -148,14 +149,19 @@ def extract_archive(folder_name,archive_file, output_dir, auto_rename, remove_zi
 
 
 # Função auxiliar de extração recursiva
-def extract_recursive(folder_name,zip_file, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var):
-    output_folder = os.path.splitext(zip_file)[0]
+def extract_recursive(folder_name,file_path, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var):
+    output_folder = os.path.splitext(file_path)[0]
     output_folder = output_folder.replace(" ", "_")
-    extract_archive(folder_name,zip_file, output_folder, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var)
+    extract_archive(folder_name,file_path, output_folder, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var)
 
     for root, dirs, files in os.walk(output_folder):
         for file in files:
+            all_files=open(folder_name+"/file_listing/all_extracted_files.txt","a")
+            files256=open(folder_name+"/file_listing/nomes_maiores_256.txt","a")
             file_path = os.path.join(root, file)
+            tam=len(file_path)
+            all_files.write(str(tam)+" caracteres: "+file_path+"\n")
+            if(tam>256): files256.write(str(tam)+" caracteres: "+file_path+"\n")
             extract_recursive(folder_name,file_path, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var)
 
 
@@ -168,6 +174,7 @@ def on_descompactar_click():
     for file_path in listbox_extract.get(0, tk.END):
         folder_name = "extraction_logs/results_" + os.path.splitext(os.path.basename(file_path))[0]
         os.makedirs(folder_name, exist_ok=True)
+        os.makedirs(folder_name+"/file_listing", exist_ok=True)
         extract_recursive(folder_name,file_path, checkbox_rename_var.get(), checkbox_zip_var.get(), checkbox_yes_var.get())
         i += int(100 / listbox_extract.size())
         progress_var.set(i)
