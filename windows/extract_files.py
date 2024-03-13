@@ -166,9 +166,30 @@ def extract_recursive(folder_name,file_path, checkbox_rename_var, checkbox_zip_v
 
 
 # Funções para o frontend
+            
+class HoverInfo:
+    def __init__(self, widget, text):
+        self.widget = widget
+        self.text = text
+        self.widget.bind("<Enter>", self.on_enter)
+        self.widget.bind("<Leave>", self.on_leave)
 
-# Botão Descompactar
-def on_descompactar_click():
+    def on_enter(self, event=None):
+        self.tooltip = tk.Toplevel(self.widget)
+        x, y, _, _ = self.widget.bbox("insert")
+        x += self.widget.winfo_rootx() + 25
+        y += self.widget.winfo_rooty() + 25
+        self.tooltip.wm_overrideredirect(True)
+        self.tooltip.wm_geometry(f"+{x}+{y}")
+        tk.Label(self.tooltip, text=self.text, background="#ffffe0", relief="solid", borderwidth=1).grid()
+
+    def on_leave(self, event=None):
+        if self.tooltip:
+            self.tooltip.destroy()
+
+
+# Botão extrair
+def on_extrair_click():
     error_count = 0
     i = 0
     for file_path in listbox_extract.get(0, tk.END):
@@ -191,10 +212,11 @@ def on_descompactar_click():
     if error_count > 0:
         progress_bar["style"] = "error.Horizontal.TProgressbar"
         error_label.config(text=f"Número de erros: {error_count}")
+        messagebox.showinfo("Extração Concluída com erros", "Cheque os logs do processo disponíveis na pasta extraction_logs")
     else:
         progress_bar["style"] = "success.Horizontal.TProgressbar"
-        error_label.config(text="")
-    messagebox.showinfo("Extração Concluída", "Os logs do processo estão disponíveis na pasta extraction_logs")
+        error_label.config(text="Número de erros: 0")
+        messagebox.showinfo("Extração Concluída", "Os logs do processo estão disponíveis na pasta extraction_logs")
 
 
 
@@ -262,7 +284,14 @@ def reiniciar_programa():
     checkbox_yes_var.set(True)
     checkbox_zip_var.set(False)
     progress_var.set(0)
+    label_count.config(text=f"Número de arquivos: 0")
 
+
+def remove_item():
+    selection = listbox_extract.curselection()
+    if selection:
+        index = selection[0]
+        listbox_extract.delete(index)
 
 # Criação dos logs
 os.makedirs("extraction_logs", exist_ok=True)
@@ -270,45 +299,79 @@ os.makedirs("extraction_logs", exist_ok=True)
 # Criação da Interface
 root = tk.Tk()
 
+
+root.columnconfigure(0, weight=1)
+root.columnconfigure(1, weight=1)
+
+listbox_count = tk.Listbox(root, selectmode=tk.SINGLE, width=50, height=5)
+listbox_count.grid(pady=10, row=0, columnspan=2)
+
 # Listador de Arquivos Comprimidos
-label_count = tk.Label(root, text="Número de arquivos: ?")
-label_count.pack(pady=5)
+label_count = tk.Label(root, text="Número de arquivos: 0")
+label_count.grid(pady=5, columnspan=2, row=1)
 
-listbox_count = tk.Listbox(root, selectmode=tk.SINGLE, width=50, height=10)
-listbox_count.pack(pady=10)
 
-button_listar_arquivos = tk.Button(root, text="Listar Arquivos Comprimidos", command=on_listar_arquivos_click)
-button_listar_arquivos.pack(pady=5)
 
-# Copiador de Lista
-button_copy = tk.Button(root, text="Copiar para Descompactar", command=on_copy_click)
-button_copy.pack(pady=5)
+frame_list = tk.Frame(root)
+frame_list.grid(row=2, column=0, sticky="nsew") 
+
+button_listar_arquivos = tk.Button(frame_list, text="Listar Arquivos Comprimidos", command=on_listar_arquivos_click)
+button_listar_arquivos.grid(padx=40,pady=10, sticky='ew')
+
+# Tooltip para o botão Listar Arquivos Comprimidos
+HoverInfo(button_listar_arquivos, "Selecione pasta(s) para listar todos os arquivos comprimidos presentes nela(s)")
+
+# Botão Copiar
+
+frame_copy = tk.Frame(root)
+frame_copy.grid(row=2, column=1, sticky="nsew") 
+
+
+button_copy = tk.Button(frame_copy, text="Copiar todos", command=on_copy_click)
+button_copy.grid(pady=5, sticky='ew')
+HoverInfo(button_copy, "Copia a lista de arquivos comprimidos acima para a caixa abaixo")
 
 # Descompactador de Arquivos
-listbox_extract = tk.Listbox(root, selectmode=tk.MULTIPLE, width=50, height=10)
-listbox_extract.pack(pady=10)
+listbox_extract = tk.Listbox(root, selectmode=tk.MULTIPLE, width=50, height=5)
+listbox_extract.grid(pady=10, row=3, columnspan=2)
 
-button_selecionar = tk.Button(root, text="Selecionar Arquivos", command=on_select_click)
-button_selecionar.pack(pady=10)
 
-button_descompactar = tk.Button(root, text="Descompactar", command=on_descompactar_click)
-button_descompactar.pack(pady=5)
+
+frame_select = tk.Frame(root)
+frame_select.grid(row=4, column=0, sticky="nsew") 
+
+
+button_selecionar = tk.Button(frame_select, text="Selecionar Arquivos", command=on_select_click)
+button_selecionar.grid(padx=40,pady=10, sticky='ew')
+HoverInfo(button_selecionar, "Selecione arquivo(s) comprimidos")
+
+
+frame_remove = tk.Frame(root)
+frame_remove.grid(row=4, column=1, sticky="nsew") 
+
+button_remover = tk.Button(frame_remove, text="Remover Arquivo", command=remove_item)
+button_remover.grid(pady=10, sticky='ew')
+HoverInfo(button_remover, "Remover arquivo selecionado")
+
 
 # Caixas de Seleção
 checkbox_rename_var = tk.BooleanVar(value=True)
 checkbox_rename = tk.Checkbutton(root, text="Auto Renomear arquivos com nomes repetidos", variable=checkbox_rename_var,
                                   command=on_checkbox_change)
-checkbox_rename.pack(pady=5)
+checkbox_rename.grid(pady=5,row=5, columnspan=2)
+HoverInfo(checkbox_rename,"Automaticamente renomeia arquivos com nomes repetidos durante a extração")
 
 checkbox_zip_var = tk.BooleanVar()
 checkbox_zip = tk.Checkbutton(root, text="Não apagar arquivos comprimidos", variable=checkbox_zip_var,
                               command=on_checkbox_change)
-checkbox_zip.pack(pady=5)
+checkbox_zip.grid(pady=5, row=6,columnspan=2)
+HoverInfo(checkbox_zip,"Extrai os arquivos sem remover os arquivos comprimidos")
 
 checkbox_yes_var = tk.BooleanVar(value=True)
 checkbox_yes = tk.Checkbutton(root, text="Sim para todas as perguntas", variable=checkbox_yes_var,
                               command=on_checkbox_change)
-checkbox_yes.pack(pady=5)
+checkbox_yes.grid(pady=5, row=7,columnspan=2)
+HoverInfo(checkbox_yes,"Responde sim para todas as perguntas do 7zip durante a extração")
 
 # Barra de Progresso da Descompressão
 style = ttk.Style()
@@ -316,20 +379,33 @@ style.configure("TProgressbar", thickness=20)
 
 progress_var = tk.IntVar()
 
-progress_bar = ttk.Progressbar(root, variable=progress_var, mode='determinate', length=400)
-progress_bar.pack(pady=15)
+progress_bar = ttk.Progressbar(root, variable=progress_var, mode='determinate', length=320)
+progress_bar.grid(pady=5, row=8, columnspan=2)
 
 style.configure("success.Horizontal.TProgressbar", troughcolor="white", background="green", thickness=15)
 style.configure("error.Horizontal.TProgressbar", troughcolor="white", background="yellow", thickness=15)
 
 # Label para exibir o número de erros
-error_label = tk.Label(root, text="")
-error_label.pack(pady=5)
+error_label = tk.Label(root, text="Número de erros: 0",bd=0, highlightthickness=0)
+error_label.grid(pady=5, row=9,columnspan=2)
+
+
+frame_extrair = tk.Frame(root)
+frame_extrair.grid(row=10, column=1, sticky="nsew") 
+
+button_extrair = tk.Button(frame_extrair, text="Extrair", command=on_extrair_click)
+button_extrair.grid(pady=10,row=10, column=1, sticky="ew")
+HoverInfo(button_extrair, "Extraia os arquivos listados na caixa acima")
+
+
+frame_reset = tk.Frame(root)
+frame_reset.grid(row=10, column=0, sticky="nsew") 
 
 # Botão de Reiniciar
-button_reiniciar = tk.Button(root, text="Reiniciar Programa", command=reiniciar_programa)
-button_reiniciar.pack(pady=5)
+button_reiniciar = tk.Button(frame_reset, text="Reiniciar Programa", command=reiniciar_programa)
+button_reiniciar.grid(padx=40,pady=10, row=10, column=0)
+HoverInfo(button_reiniciar, "Reinicia o programa e limpa as caixas")
 
-root.geometry("600x800")
+root.geometry("400x600")
 root.title("Descompactação de Arquivos Geo Ansata")
 root.mainloop()
