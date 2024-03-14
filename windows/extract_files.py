@@ -218,12 +218,12 @@ def on_extrair_click():
         progress_bar["style"] = "error.Horizontal.TProgressbar"
         progress_bar.update()
         error_label.config(text=f"Número de erros: {error_count}")
-        messagebox.showinfo("Extração Concluída com erros", "Cheque os logs do processo disponíveis na pasta extraction_logs")
+        messagebox.showinfo("Extração Concluída com erros", "ERRO: Cheque os logs do processo disponíveis na pasta extraction_logs")
     else:
         progress_bar["style"] = "sucess.Horizontal.TProgressbar"
         progress_bar.update()
         error_label.config(text="Número de erros: 0")
-        messagebox.showinfo("Extração Concluída", "ERRO: Os logs do processo estão disponíveis na pasta extraction_logs")
+        messagebox.showinfo("Extração Concluída", " Os logs do processo estão disponíveis na pasta extraction_logs")
 
 
 
