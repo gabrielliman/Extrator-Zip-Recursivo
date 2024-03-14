@@ -18,6 +18,7 @@ Para realizar o build de um novo arquivo exe é necessário o uso da biblioteca 
 Em seguida é so utilizar o seguinte comando:
     pyinstaller --onefile extract_files.py
 O executável estará dentro da pasta dist
+<<<<<<< HEAD
 
 
 Proximas Mudanças:
@@ -28,3 +29,5 @@ Scrollar tela
 
 ACHO QUE RESOLVIDO
 adicionar a checagem contando o arquivoss dentro do zip (ver se é possivel ver o tanto que tem dentro do zip antes de abrir ele) e depois vendo se pos descompactaçao continua com os mesmos
+=======
+>>>>>>> 63d170033c02fbaf72a7c9dcccbd26fec8f6a115
