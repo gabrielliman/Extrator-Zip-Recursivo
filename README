@@ -21,6 +21,10 @@ O executável estará dentro da pasta dist
 
 
 Proximas Mudanças:
-Checar se responder sim pra todas as substituições tem problema
-A barra de progresso não ta enchendo ate o final, nao ta prestando
+Barra de progresso nao muda de cor
+checar mensagem de erro
+Scrollar tela
 
+
+ACHO QUE RESOLVIDO
+adicionar a checagem contando o arquivoss dentro do zip (ver se é possivel ver o tanto que tem dentro do zip antes de abrir ele) e depois vendo se pos descompactaçao continua com os mesmos

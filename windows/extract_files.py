@@ -150,8 +150,8 @@ def extract_archive(folder_name,archive_file, output_dir, auto_rename, remove_zi
 
 # Função auxiliar de extração recursiva
 def extract_recursive(folder_name,file_path, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var):
-    output_folder = os.path.splitext(file_path)[0]
-    output_folder = output_folder.replace(" ", "_")
+    output_folder = os.path.splitext(os.path.basename(file_path))[0]
+    output_folder = os.path.dirname(file_path)+"/"+output_folder.replace(" ", "_")
     extract_archive(folder_name,file_path, output_folder, checkbox_rename_var, checkbox_zip_var, checkbox_yes_var)
 
     for root, dirs, files in os.walk(output_folder):
@@ -192,6 +192,9 @@ class HoverInfo:
 def on_extrair_click():
     error_count = 0
     i = 0
+    progress_var.set(0)
+    progress_bar["style"] = "sucess.Horizontal.TProgressbar"
+    progress_bar.update()
     for file_path in listbox_extract.get(0, tk.END):
         folder_name = "extraction_logs/results_" + os.path.splitext(os.path.basename(file_path))[0]
         os.makedirs(folder_name, exist_ok=True)
@@ -207,16 +210,20 @@ def on_extrair_click():
             with open(error_log_path, "r") as error_log:
                 errors = error_log.read()
                 error_count += errors.count("Extraction failed")
+                progress_bar["style"] = "error.Horizontal.TProgressbar"
+                progress_bar.update()
 
     # Altera a cor da barra de progresso com base na contagem de erros
     if error_count > 0:
         progress_bar["style"] = "error.Horizontal.TProgressbar"
+        progress_bar.update()
         error_label.config(text=f"Número de erros: {error_count}")
         messagebox.showinfo("Extração Concluída com erros", "Cheque os logs do processo disponíveis na pasta extraction_logs")
     else:
-        progress_bar["style"] = "success.Horizontal.TProgressbar"
+        progress_bar["style"] = "sucess.Horizontal.TProgressbar"
+        progress_bar.update()
         error_label.config(text="Número de erros: 0")
-        messagebox.showinfo("Extração Concluída", "Os logs do processo estão disponíveis na pasta extraction_logs")
+        messagebox.showinfo("Extração Concluída", "ERRO: Os logs do processo estão disponíveis na pasta extraction_logs")
 
 
 
@@ -298,7 +305,10 @@ os.makedirs("extraction_logs", exist_ok=True)
 
 # Criação da Interface
 root = tk.Tk()
-
+s = ttk.Style()
+s.theme_use('clam')
+s.configure("error.Horizontal.TProgressbar", troughcolor="white", background="green",thickness=15)
+s.configure("sucess.Horizontal.TProgressbar", troughcolor="white", background="green",thickness=15)
 
 root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=1)
@@ -374,16 +384,16 @@ checkbox_yes.grid(pady=5, row=7,columnspan=2)
 HoverInfo(checkbox_yes,"Responde sim para todas as perguntas do 7zip durante a extração")
 
 # Barra de Progresso da Descompressão
-style = ttk.Style()
-style.configure("TProgressbar", thickness=20)
+#style = ttk.Style()
+#tyle.configure("TProgressbar", thickness=15)
 
 progress_var = tk.IntVar()
 
 progress_bar = ttk.Progressbar(root, variable=progress_var, mode='determinate', length=320)
 progress_bar.grid(pady=5, row=8, columnspan=2)
 
-style.configure("success.Horizontal.TProgressbar", troughcolor="white", background="green", thickness=15)
-style.configure("error.Horizontal.TProgressbar", troughcolor="white", background="yellow", thickness=15)
+#style.configure("success.Horizontal.TProgressbar", troughcolor="white", background="green", thickness=15)
+#style.configure("error.Horizontal.TProgressbar", troughcolor="white", background="yellow", thickness=15) 
 
 # Label para exibir o número de erros
 error_label = tk.Label(root, text="Número de erros: 0",bd=0, highlightthickness=0)
